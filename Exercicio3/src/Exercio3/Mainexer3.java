@@ -21,5 +21,9 @@ public class Mainexer3 {
 		
 		medidas.eixoX();
 		medidas.raizComplexa();
+		
+		scanner.close;
 		}
+
+	
 }
