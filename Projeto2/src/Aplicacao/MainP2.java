@@ -24,18 +24,12 @@ public class MainP2 {
 		System.out.print("Angulo: ");
 		double angulo2 = sc.nextDouble();
 		
-		P2 v1 = new P2();
-		v1.valor = valor1;
-		v1.angulo = angulo1;
+		P2 v1 = new P2(valor1, angulo1);
+		P2 v2 = new P2(valor2, angulo2);
 
-		P2 v2 = new P2();
-		v2.valor = valor2;
-		v2.angulo = angulo2;
+		P2 resultante = P2.soma(v1, v2);
 		
-		double somaX = v1.X() + v2.X();
-		double somaY = v1.Y() + v2.Y();
-		
-		System.out.print("Resultado: " +somaX + "+/- " + somaY);
+		System.out.print("Resultante:\nValor = "+ resultante.getValor() + "\nAngulo = " + resultante.getAngulo());
 		
 	}
 }
