@@ -1,0 +1,197 @@
+Qual é a capital do Brasil?
+São Paulo
+Rio de Janeiro
+*Brasília
+Salvador
+
+Qual foi o primeiro nome da escola onde hoje funciona o Instituto Federal de São Paulo - Campus São Paulo?
+CEFET
+Escola Técnica Federal
+Escola Técnica de São Paulo
+*Escola de Aprendizes Artífices de São Paulo
+
+Qual é o maior planeta do Sistema Solar?
+Mercúrio
+Terra
+*Júpiter
+Saturno
+
+Quem pintou a Mona Lisa?
+Michelangelo
+*Leonardo da Vinci
+Rafael
+Van Gogh
+
+Em que ano o Brasil foi alcançado pelos portugueses?
+1492
+*1500
+1530
+1822
+
+Qual é o maior oceano do mundo?
+Atlântico
+Índico
+*Pacífico
+Ártico
+
+Quantas unidades federativas (26 estados + Distrito Federal) tem o Brasil?
+25
+26
+*27
+28
+
+Qual linguagem de programação ficou famosa pelo lema "escreva uma vez, execute em qualquer lugar"?
+C++
+Python
+*Java
+Pascal
+
+Qual é a fórmula química da água?
+CO2
+*H2O
+O2
+NaCl
+
+Quem escreveu o romance "Dom Casmurro"?
+José de Alencar
+*Machado de Assis
+Clarice Lispector
+Graciliano Ramos
+
+Qual é o maior rio do Brasil em volume de água?
+São Francisco
+Paraná
+*Amazonas
+Tocantins
+
+Qual é o menor país do mundo em território?
+Mônaco
+*Vaticano
+San Marino
+Malta
+
+Em que ano foi proclamada a República no Brasil?
+1822
+1888
+*1889
+1930
+
+Quem foi o primeiro presidente do Brasil?
+Getúlio Vargas
+Floriano Peixoto
+Dom Pedro II
+*Marechal Deodoro da Fonseca
+
+Qual planeta é conhecido como "Planeta Vermelho"?
+Vênus
+*Marte
+Júpiter
+Mercúrio
+
+Qual é o animal terrestre mais rápido do mundo?
+Leão
+*Guepardo
+Cavalo
+Avestruz
+
+Qual é o osso mais longo do corpo humano?
+Úmero
+Tíbia
+*Fêmur
+Rádio
+
+Qual país sediou a Copa do Mundo de 2014?
+África do Sul
+Rússia
+Alemanha
+*Brasil
+
+Qual é a capital da Argentina?
+Santiago
+Montevidéu
+*Buenos Aires
+Assunção
+
+Em Java, qual palavra-chave é usada para herdar uma classe?
+implements
+*extends
+inherits
+super
+
+Qual classe da Java NIO representa o caminho de um arquivo ou diretório?
+File
+Stream
+*Path
+Reader
+
+Qual método da classe Files lê todas as linhas de um arquivo de texto de uma só vez?
+getLines
+loadLines
+*readAllLines
+readLines
+
+Qual é o tipo primitivo de Java para números inteiros de 32 bits?
+long
+short
+byte
+*int
+
+Qual é a velocidade aproximada da luz no vácuo?
+30.000 km/s
+*300.000 km/s
+3.000.000 km/s
+150.000 km/s
+
+Quem desenvolveu a teoria da relatividade?
+Isaac Newton
+Galileu Galilei
+*Albert Einstein
+Niels Bohr
+
+Qual é a moeda oficial do Japão?
+Yuan
+Won
+*Iene
+Rupia
+
+Qual elemento químico tem símbolo "Au"?
+Prata
+*Ouro
+Alumínio
+Argônio
+
+Quantos jogadores de cada time ficam em campo em uma partida de futebol?
+10
+*11
+12
+9
+
+Qual é o maior bioma brasileiro em extensão?
+Cerrado
+Mata Atlântica
+*Amazônia
+Caatinga
+
+Qual é o maior mamífero do mundo?
+Elefante africano
+*Baleia-azul
+Tubarão-baleia
+Girafa
+
+Qual é o resultado de 15 x 15?
+215
+*225
+235
+255
+
+Quem é considerado o pai da computação moderna e criou a Máquina de Turing?
+Charles Babbage
+John von Neumann
+*Alan Turing
+Bill Gates
+
+Qual é a capital da Austrália?
+Sydney
+Melbourne
+*Camberra
+Perth
